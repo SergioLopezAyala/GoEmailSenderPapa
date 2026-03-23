@@ -1,4 +1,4 @@
-module EmailSenderPapa
+module github.com/Joselito1327/EmailSenderPapa
 
 go 1.25
 
